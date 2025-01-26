@@ -65,15 +65,7 @@ Feel free to drop me a message or check out my projects!
 
 ---
 
-### 📝 Template for Adding More Info
-Feel free to add or edit this section as you grow and work on new projects:
 
-```markdown
-### 🛠️ New Section Title
-- Add something cool about yourself here.
-- Share any achievements or upcoming plans.
-- Highlight skills, projects, or collaborations you’re proud of.
-```
 
 <div style="border: 2px outset #E91E63; border-radius: 10px; padding: 15px;">
   <h3>Thanks for visiting! ⭐ Don’t forget to follow and check out my repositories.</h3>
